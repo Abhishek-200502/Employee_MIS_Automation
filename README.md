@@ -60,8 +60,9 @@ Interactive Slicers
 VBA Refresh MIS
        ↓
 Updated Dashboard
-## Dashboard Preview
 ```
+## Dashboard Preview
+
 ![Employee MIS Dashboard](Automated%20MIS%20Dashboard.png)
 
 
