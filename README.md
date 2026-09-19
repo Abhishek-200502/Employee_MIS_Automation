@@ -62,12 +62,13 @@ VBA Refresh MIS
 Updated Dashboard
 ## Dashboard Preview
 
-![Employee MIS Dashboard](screenshots/dashboard.png)
+![Employee MIS Dashboard](Automated%20MIS%20Dashboard.png)
+
 
 ## Data Cleaning & Automation
 
-![Power Query Data Cleaning](screenshots/power-query.png)
+![Power Query Data Cleaning](Data_cleaning%20using%20power%20query.png)
 
 ## PivotTables & Analysis
 
-![PivotTable Analysis](screenshots/pivottables.png)
+![PivotTable Analysis](Department_count.png)
